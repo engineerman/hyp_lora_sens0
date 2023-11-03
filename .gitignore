@@ -2,3 +2,8 @@
 *.SchDocPreview
 
 /Project Outputs for DigitalSensor/
+/*/Gerber/
+*.zip
+*.TXT
+/*/NC Drill/
+*.bat
